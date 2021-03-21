@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-homework",
+  "version": "1.0.0",
+  "description": "Nodejs GMP homework",
+  "main": "index.js",
+  "scripts": {
+    "task1": "nodemon homework1/task1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdokkupalle-ebsco/nodejs-homework.git"
+  },
+  "author": "Vikram Kumar Dokkupalle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdokkupalle-ebsco/nodejs-homework/issues"
+  },
+  "homepage": "https://github.com/vdokkupalle-ebsco/nodejs-homework#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
