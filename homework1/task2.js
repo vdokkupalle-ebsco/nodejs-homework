@@ -1,8 +1,8 @@
-const csv = require("csvtojson");
-const { createReadStream, createWriteStream } = require("fs");
-const path = require("path");
-const rootDir = require("../rootDir");
-const fs = require("fs/promises");
+import csv from "csvtojson";
+import { createReadStream, createWriteStream } from "fs";
+import path from "path";
+import rootDir from "../rootDir";
+import fs from "fs/promises";
 
 (async () => {
     

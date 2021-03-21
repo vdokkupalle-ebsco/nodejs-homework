@@ -1,4 +1,4 @@
-const reverseString = require("./reverseString");
+import reverseString from "./reverseString";
 
 const printOutput = (data)=>{
     process.stdout.write(data);
